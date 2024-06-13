@@ -33,3 +33,7 @@ Upon successful completion of the internship, you'll receive:
 We're genuinely excited about having you join our ranks. Your skills and dedication will be a significant asset. Congratulations once again on your selection!
 
 We look forward to collaborating with you and providing a rich learning experience.
+
+<p align="center">
+  <img src="README assets/img/We Speak Data.jpg" alt="logo">
+</p>
