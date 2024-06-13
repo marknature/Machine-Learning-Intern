@@ -4,6 +4,10 @@
 
 We're thrilled to offer you a virtual internship as a Machine Learning Intern at Intern Career. Your application and skills have impressed us, and we're excited to have you on board.
 
+<p align="center">
+  <img src="README assets/interncareers_logo.jpeg" alt="logo">
+</p>
+
 ## What to Expect
 
 During this internship, you'll gain hands-on experience in various aspects of machine learning, including:
