@@ -8,6 +8,12 @@ We're thrilled to offer you a virtual internship as a Machine Learning Intern at
   <img src="README assets/img/interncareers_logo.jpeg" alt="logo">
 </p>
 
+## Task 1:
+
+
+## Task 2:
+
+
 ## What to Expect
 
 During this internship, you'll gain hands-on experience in various aspects of machine learning, including:
