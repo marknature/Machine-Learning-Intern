@@ -8,10 +8,11 @@ We're thrilled to offer you a virtual internship as a Machine Learning Intern at
   <img src="README assets/img/interncareers_logo.jpeg" alt="logo">
 </p>
 
-## Task 1:
+## Linkedin:
 
+### Task 1: https://www.linkedin.com/posts/marknature-c_task-1-machine-learning-internship-activity-7208307450708475905-yT6n?utm_source=share&utm_medium=member_desktophttps://www.linkedin.com/posts/marknature-c_task-1-machine-learning-internship-activity-7208307450708475905-yT6n?utm_source=share&utm_medium=member_desktop
 
-## Task 2:
+### Task 2:
 
 
 ## What to Expect
