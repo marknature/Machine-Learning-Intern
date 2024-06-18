@@ -16,8 +16,8 @@
 3. **Run the Script**:
     - Copy the above script into a new Python file, e.g., `breast_cancer_analysis.py`.
     - Run the script from PyCharm by right-clicking the file and selecting "Run".
-
-<p><img scr="screenshot.png" alt="screenshot"></p>
+<br>
+<p><img src="screenshot.png" alt="screenshot"></p>
 
 
 ## 1. Introduction
