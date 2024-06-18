@@ -12,12 +12,13 @@ We're thrilled to offer you a virtual internship as a Machine Learning Intern at
 
 ### Task 1: https://www.linkedin.com/posts/marknature-c_task-1-machine-learning-internship-activity-7208307450708475905-yT6n?utm_source=share&utm_medium=member_desktophttps://www.linkedin.com/posts/marknature-c_task-1-machine-learning-internship-activity-7208307450708475905-yT6n?utm_source=share&utm_medium=member_desktop
 <p align="center">
-  <img src="README assets/screenshots/screenshot01.png" alt="logo">
+  <img src="README assets/screenshots/screenshot01.png" alt="code">
 </p>
 
 ### Task 2: https://www.linkedin.com/posts/marknature-c_machine-learning-intern-task-2-breast-cancer-activity-7208966145331101696-RSfe?utm_source=share&utm_medium=member_desktop
 <p align="center">
-  <img src="README assets/screenshots/screenshot02.png" alt="logo">
+  <img src="README assets/screenshots/screenshot02.png" alt="code">
+  <img src="https://github.com/marknature/Machine-Learning-Intern/blob/main/Task%202%20Breast%20Cancer%20Wisconsin%20(Diagnostic)-20240526T153601Z-001/Python%20script/screenshot.png" alt="code">
 </p>
 
 ## What to Expect
