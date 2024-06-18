@@ -16,7 +16,9 @@ We're thrilled to offer you a virtual internship as a Machine Learning Intern at
 </p>
 
 ### Task 2:
-
+<p align="center">
+  <img src="README assets/screenshots/screenshot02.png" alt="logo">
+</p>
 
 ## What to Expect
 
