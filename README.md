@@ -15,7 +15,7 @@ We're thrilled to offer you a virtual internship as a Machine Learning Intern at
   <img src="README assets/screenshots/screenshot01.png" alt="logo">
 </p>
 
-### Task 2:
+### Task 2: https://www.linkedin.com/posts/marknature-c_machine-learning-intern-task-2-breast-cancer-activity-7208966145331101696-RSfe?utm_source=share&utm_medium=member_desktop
 <p align="center">
   <img src="README assets/screenshots/screenshot02.png" alt="logo">
 </p>
