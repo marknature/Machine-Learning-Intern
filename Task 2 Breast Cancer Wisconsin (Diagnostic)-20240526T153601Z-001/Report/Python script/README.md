@@ -17,6 +17,8 @@
     - Copy the above script into a new Python file, e.g., `breast_cancer_analysis.py`.
     - Run the script from PyCharm by right-clicking the file and selecting "Run".
 
+<p><img scr="screenshot.png" alt="screenshot"></p>
+
 
 ## 1. Introduction
 This section will provide an overview of the dataset and define the objective of the analysis.
